@@ -17,7 +17,7 @@ import urllib.parse
 # 🎨 STREAMLIT APPLICATION ROUTING & CONFIGURATION
 # =====================================================================
 st.set_page_config(
-    page_title="AGV Fleet Management System",
+    page_title="Dynamic Fault Recovery System",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
