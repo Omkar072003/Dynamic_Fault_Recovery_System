@@ -380,7 +380,7 @@ if 'agvs' not in st.session_state:
 # --- Header Template ---
 st.markdown("""
     <div class="main-header">
-        <h1 style="margin: 0; font-size: 2.5rem; font-weight: 700;">🤖 AGV Fleet Management System</h1>
+        <h1 style="margin: 0; font-size: 2.5rem; font-weight: 700;">🤖 Dynamic Fault Recovery System</h1>
         <p style="margin: 10px 0 0 0; font-size: 1.1rem; opacity: 0.9;">Intelligent Autonomous Vehicle Fleet Operations & Real-time Monitoring</p>
     </div>
 """, unsafe_allow_html=True)
